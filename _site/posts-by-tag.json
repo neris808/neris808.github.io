@@ -3,6 +3,36 @@
 [   
       
   {
+  "tag" : "Git",
+  "posts" : [
+      
+      "./practice.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Linux",
+  "posts" : [
+      
+      "./practice.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "Web",
+  "posts" : [
+      
+      "./practice.html"
+      
+    ]
+  } ,
+    
+      
+  {
   "tag" : "artificial intelligence",
   "posts" : [
       
@@ -118,8 +148,6 @@
   "tag" : "optimization",
   "posts" : [
       
-      "./practice.html",
-      
       "./neural-network-optimization-methods.html"
       
     ]
@@ -145,16 +173,6 @@
   "posts" : [
       
       "./deep-q-learning-tic-tac-toe.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "simulation",
-  "posts" : [
-      
-      "./practice.html"
       
     ]
   } ,

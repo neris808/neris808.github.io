@@ -1,13 +1,13 @@
 [
   
     {
-      "title"       : "장화제조 공정의 자동화 시뮬레이션",
-      "category"    : "projects",
-      "tags"        : "simulation, optimization",
+      "title"       : "Jekyll 로컬 호스팅",
+      "category"    : "Study",
+      "tags"        : "Linux, Git, Web",
       "url"         : "./practice.html",
-      "date"        : "2024-05-02 00:00:00 +0900",
-      "description" : "plant simulation, optimization",
-      "content"     : ""
+      "date"        : "2024-05-09 00:00:00 +0900",
+      "description" : "Jekyll을 로컬호스팅 하는데 필요한 요소들",
+      "content"     : "깃허브 페이지를 로컬호스팅 하는데 여기를 참조하였음"
     } ,
   
     {
